@@ -1,4 +1,9 @@
-﻿# 플러그인 사용 방법
+![2022-10-13 14 35 56](https://user-images.githubusercontent.com/20321215/195510538-2da35bd4-4e96-4451-881f-2eaeb95c1e1a.png)
+
+내부적으로 디버깅 UI가 존재해서 그것만 활성화 시킬수 있게 버튼 만듬  
+자원 몇개만 편하게 추가하게끔 UI추가
+
+# 플러그인 사용 방법
  
  모든 플러그인 최신 가이드는 https://github.com/lilly1987/BepInPluginSample 를 참조  
  
